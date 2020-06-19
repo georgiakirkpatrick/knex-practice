@@ -80,3 +80,8 @@ console.log(qry)
   }
   
   mostPopularVideosForDays(30)
+
+  function getTotalCostsOfEachCategory() {
+      knexInstance
+        .select('')
+  }
